@@ -4,7 +4,7 @@
 # title of site appears in banner
 title: Chelsea's Portfolio
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: Metadata_chelsea-portfolio 
+metadata: metadata_chelsea-portfolio 
 # repository is the github repository's full url: 
 # replace CollectionBuilder with your GitHub username and replace 'collectionbuilder-gh' with the name of your repository
 repository: https://github.com/cc3199/chelsea_portfolio
