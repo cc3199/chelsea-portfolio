@@ -49,7 +49,7 @@ mediatypes: images;documents; #options[documents,images,video,sound,data] separa
 about-page: true # options [true / false] 
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # give filename including folder
-about-featured-image: objects/poster_FortBoiseBones2017.jpg
+about-featured-image: objects/2017PosterPresentation.jpg
 about-featured-image-alt: "Me presenting my Fort Boises poster at the Undergraduate Research Symposium at University of Idaho"
 
 # BROWSE PAGE
