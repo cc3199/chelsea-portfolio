@@ -1,6 +1,6 @@
 ---
 title: Conference Posters
-layout: item
+layout: posters
 permalink: /posters/
 # see _data/map-config.csv for display options
 ---
