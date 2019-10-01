@@ -1,6 +1,6 @@
 field,display,search
 date,Date,true
-creator,Creator,true
+creator,Creator,false
 subject,Subjects,true
-place,Location,true
+place,Location,false
 format,Format,
