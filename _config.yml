@@ -13,7 +13,7 @@ collection-date: "2019"
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://cc3199.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /chelsea-portfolio
+baseurl: /Chelsea_Portfolio
 
 
 # google services [optional!]
