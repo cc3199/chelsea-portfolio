@@ -56,7 +56,7 @@ about-featured-image-alt: "Me presenting my Fort Boises poster at the Undergradu
 # see _data/browse-config.csv for field display options
 # fields given the "btn" option can be multivalued with ";" such as subjects.
 
-# MAP PAGE
+# POSTERS PAGE
 # see _data/map-config.csv for field display options
 latitude: 46.727485 #to determine center of map
 longitude: -117.014185 #to determine center of map
